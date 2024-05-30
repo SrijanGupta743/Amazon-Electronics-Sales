@@ -1,4 +1,4 @@
-# Product Sales Analysis and Visualisations Using Python
+# Amazon Electronics Sales Analysis and Visualisations Using Python
 
 This project focuses on analyzing amazon electronics sales data and creating visualizations using Python. The goal is to provide insights into sales trends, identify patterns, and visualize the data to make informed business decisions.
 
